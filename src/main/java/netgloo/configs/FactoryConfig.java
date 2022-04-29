@@ -7,7 +7,7 @@ import org.springframework.orm.jpa.vendor.HibernateJpaSessionFactoryBean;
 @Configuration
 @EnableAutoConfiguration
 public class FactoryConfig {
-
+//main subhashree
 
 	@Bean
 	public HibernateJpaSessionFactoryBean sessionFactory() {
