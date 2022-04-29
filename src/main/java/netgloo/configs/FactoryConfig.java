@@ -8,7 +8,7 @@ import org.springframework.orm.jpa.vendor.HibernateJpaSessionFactoryBean;
 @EnableAutoConfiguration
 public class FactoryConfig {
 
-//main2 mamuni
+//main2 fghjk
 	@Bean
 	public HibernateJpaSessionFactoryBean sessionFactory() {
 	    return new HibernateJpaSessionFactoryBean();
