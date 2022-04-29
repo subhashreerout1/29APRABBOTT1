@@ -8,6 +8,7 @@ import org.springframework.orm.jpa.vendor.HibernateJpaSessionFactoryBean;
 @EnableAutoConfiguration
 public class FactoryConfig {
 
+
 	@Bean
 	public HibernateJpaSessionFactoryBean sessionFactory() {
 	    return new HibernateJpaSessionFactoryBean();
