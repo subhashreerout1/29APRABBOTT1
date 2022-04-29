@@ -1,0 +1,7 @@
+netgloo\controllers\MainController.class
+netgloo\models\Category.class
+netgloo\configs\FactoryConfig.class
+netgloo\Application.class
+netgloo\controllers\UserController.class
+netgloo\models\UserDao.class
+netgloo\models\User.class
